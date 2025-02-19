@@ -35,6 +35,9 @@ super1234
 MAXPRINT
 admin
 maxprintisp
+
+telecom
+admintelecom
 =========================================
 MAXPRINT
 telecom
@@ -76,10 +79,22 @@ PHYHOME - P20
 admin
 1234
 =========================================
-
+2FLEX-FG1200M
+http://192.168.1.1
+superadmin
+super1234
 
 =========================================
+FW FAST WIRELESS - (Similar Chima)
+192.168.1.1
 
+Modelo Generico
+usuario: admin
+Senha: stdONU101
+
+Modelo V-SOL
+usuario: admin
+Senha vsONU101
 
 =========================================
 
