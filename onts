@@ -28,6 +28,14 @@ Unee MP-421R
 192.168.1.1
 root
 Changeme_123
+
+Acesso SSH
+admin
+stavix@admin
+
+Comando de reset: 
+flash default cs
+reboot
 =========================================
 2FLEX-FG1200M
 http://192.168.1.1
